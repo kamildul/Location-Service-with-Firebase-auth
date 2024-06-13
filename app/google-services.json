@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103830438274",
+    "project_id": "lokalizator-301be",
+    "storage_bucket": "lokalizator-301be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103830438274:android:0057efbb284cac500d8f9b",
+        "android_client_info": {
+          "package_name": "aeh.kotlin.lokalizator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkh1c2nPiCcGtItKugUyK16oDF3WLFRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
